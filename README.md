@@ -2,7 +2,7 @@
 
 
 
-🔗 Live Demo
+🔗 Live Demo : https://rasiq-mv.github.io/Simple-To-Do-List-QA-Project/
 
 
 
@@ -68,3 +68,4 @@ Objective: Validate functional (task creation \& management) and non-functional 
 * Test Case Design
 * Defect Logging \& Tracking
 * Functional \& Usability Testing
+
