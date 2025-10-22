@@ -35,7 +35,7 @@ Objective: Validate functional (task creation \& management) and non-functional 
 * 1.SRS and Test planning - SRS and Test Plan Document
 * 2.Execution and Results - Test Cases (24 total) + Defect Log (3 defects found)
 * 3.Final Report - Test Summary Report (87.5% pass rate).
-* 4.The Application - index.html(Source code of the tested app)
+* 4.index.html - Source code of the tested app
 
 
 
@@ -68,5 +68,6 @@ Objective: Validate functional (task creation \& management) and non-functional 
 * Test Case Design
 * Defect Logging \& Tracking
 * Functional \& Usability Testing
+
 
 
