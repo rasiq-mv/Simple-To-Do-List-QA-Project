@@ -1,8 +1,8 @@
-### 🧩**Simple To-Do List App — QA Testing Project**
+**Simple To-Do List App — QA Testing Project**
 
 
 
-🔗 Live Demo : https://rasiq-mv.github.io/Simple-To-Do-List-QA-Project/
+Live Demo : https://rasiq-mv.github.io/Simple-To-Do-List-QA-Project/
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-##### 🧠**Project Overview**
+**Project Overview**
 
 
 
@@ -28,7 +28,7 @@ Objective: Validate functional (task creation \& management) and non-functional 
 
 
 
-##### 📂Repository Structure
+Repository Structure
 
 
 
@@ -39,27 +39,27 @@ Objective: Validate functional (task creation \& management) and non-functional 
 
 
 
-##### 🌟Key Highlights
+Key Highlights
 
 
 
-✅ End-to-End STLC Coverage — From Test Planning to Closure
+* End-to-End STLC Coverage — From Test Planning to Closure
 
 
 
-🔍 Traceability Maintained — Clear linkage between requirements, test cases, and defects
+* Traceability Maintained — Clear linkage between requirements, test cases, and defects
 
 
 
-🎨 UI \& Usability Testing — Verified ease of use and interface consistency
+* UI \& Usability Testing — Verified ease of use and interface consistency
 
 
 
-📊 Result Analysis — Included test execution metrics and defect summary
+* Result Analysis — Included test execution metrics and defect summary
 
 
 
-##### 🧰Core QA Skills
+Core QA Skills
 
 
 
@@ -68,6 +68,7 @@ Objective: Validate functional (task creation \& management) and non-functional 
 * Test Case Design
 * Defect Logging \& Tracking
 * Functional \& Usability Testing
+
 
 
 
