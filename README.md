@@ -10,6 +10,7 @@ Live Demo : https://rasiq-mv.github.io/Simple-To-Do-List-QA-Project/
 
 
 
+
 **Project Overview**
 
 
@@ -68,6 +69,7 @@ Core QA Skills
 * Test Case Design
 * Defect Logging \& Tracking
 * Functional \& Usability Testing
+
 
 
 
